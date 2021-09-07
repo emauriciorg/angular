@@ -1,0 +1,15 @@
+
+div {
+    margin-left: var(--margin-left-value);
+}
+
+h2 {
+    font-weight: lighter;
+    color: var(--color);
+    margin-left: var(--margin-left-value);    
+
+}
+
+h3 {
+}
+

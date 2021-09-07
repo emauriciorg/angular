@@ -1,0 +1,40 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: white;
+    font-family: 'Arboria', serif;
+
+}
+
+
+.header-container  {
+ 
+    background: 
+    linear-gradient(90deg, rgba(223,135,125,0), rgba(206,169,160,0.8) 70.71%),  
+    linear-gradient(0deg , rgba(255,50,60,1), rgba(132,171,238,0.8) 100%);
+    border-style:none;
+    border-width: 1rem;
+    border-radius: 1rem;
+    width: 21.938rem;
+    height: 13.063;
+    padding-left:1.875rem ;
+    padding-right:1.875rem ;
+    padding-bottom:1rem ;
+
+}
+section.header-container h1 {
+    color:white;
+    justify-content: left;
+    width: 60%;
+    font-weight: bold;
+    font-size: 2em;
+    font-family: 'Rubik', serif;
+}
+
+section.header-container p {
+    color:white;
+    font-weight:normal;
+}
+
+section.header-container p i{
+    padding-right:0.3rem ;
+}
